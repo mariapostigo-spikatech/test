@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: test-project
+Version: 0.1.0
+Summary: My short description for my project.
+Author: Nombre apellido
+Author-email: nombre.apellido@spikatech.com
+Requires-Python: >=3.6.0

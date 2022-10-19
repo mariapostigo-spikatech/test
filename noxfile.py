@@ -1,0 +1,6 @@
+import nox
+
+@nox.session(python=["3.9", "3.10"])
+def tests(session):
+    session.install('pytest')
+    session.run('pytest', 'tests/test_rectangle.py')

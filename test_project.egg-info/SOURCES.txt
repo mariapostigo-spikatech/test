@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.py
+src/__init__.py
+src/rectangle.py
+test_project.egg-info/PKG-INFO
+test_project.egg-info/SOURCES.txt
+test_project.egg-info/dependency_links.txt
+test_project.egg-info/top_level.txt
+tests/__init__.py
+tests/test_rectangle.py
